@@ -1,0 +1,5 @@
+﻿  QuickSort.cpp
+  Source.cpp
+  Generating Code...
+Source.obj : error LNK2005: main already defined in QuickSort.obj
+D:\workplace\CTDL\BaiTap\InterchangeSort\x64\Debug\InterchangeSort.exe : fatal error LNK1169: one or more multiply defined symbols found
